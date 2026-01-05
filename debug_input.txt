@@ -1,0 +1,42 @@
+Array
+(
+    [database_fundamentals] => Average
+    [computer_architecture] => Average
+    [distributed_computing] => Professional
+    [cyber_security] => Not Interested
+    [networking] => Average
+    [software_development] => Not Interested
+    [programming_skills] => Intermediate
+    [project_management] => Not Interested
+    [computer_forensics] => Not Interested
+    [technical_communication] => Not Interested
+    [ai_ml] => Professional
+    [software_engineering] => Poor
+    [business_analysis] => Intermediate
+    [communication_skills] => Not Interested
+    [data_science] => Not Interested
+    [troubleshooting_skills] => Average
+    [graphics_designing] => Not Interested
+)
+Array
+(
+    [Database Fundamentals] => Average
+    [Computer Architecture] => Average
+    [Distributed Computing Systems] => Professional
+    [Cyber Security] => Not Interested
+    [Networking] => Average
+    [Software Development] => Not Interested
+    [Programming Skills] => Intermediate
+    [Project Management] => Not Interested
+    [Computer Forensics Fundamentals] => Not Interested
+    [Technical Communication] => Not Interested
+    [AI ML] => Professional
+    [Software Engineering] => Poor
+    [Business Analysis] => Intermediate
+    [Communication skills] => Not Interested
+    [Data Science] => Not Interested
+    [Troubleshooting skills] => Average
+    [Graphics Designing] => Not Interested
+)
+
+JSON Sent: {"Database Fundamentals":"Average","Computer Architecture":"Average","Distributed Computing Systems":"Professional","Cyber Security":"Not Interested","Networking":"Average","Software Development":"Not Interested","Programming Skills":"Intermediate","Project Management":"Not Interested","Computer Forensics Fundamentals":"Not Interested","Technical Communication":"Not Interested","AI ML":"Professional","Software Engineering":"Poor","Business Analysis":"Intermediate","Communication skills":"Not Interested","Data Science":"Not Interested","Troubleshooting skills":"Average","Graphics Designing":"Not Interested"}
